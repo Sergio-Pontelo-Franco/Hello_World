@@ -1,2 +1,5 @@
-# Hello_World
-Treinamento Git Python Flask
+# Alterando a ramificaçao do primeiro readme
+# Este trabalho mostra o controle de versões no Github
+#
+# Obrigado
+# Sergio Pontelo Franco
